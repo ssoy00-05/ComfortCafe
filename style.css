@@ -14,3 +14,35 @@ footer {
     width: 100%;
 
 }
+
+a {
+    text-decoration: none;
+}
+
+.main-nav {
+    display: flex;
+    list-style: none;
+}
+
+.main-nav li {
+    margin-left: 36px;
+    color: #435;
+}
+
+.main-nav li:hover {
+    color: #0ba;
+}
+
+header {
+    width: 90%;
+    padding: 15px 0;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-nav {
+    display: flex;
+    list-style: none;
+    margin-top: 14px;
+}
