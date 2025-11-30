@@ -79,3 +79,14 @@ a {
     background-image: url(./img/cafemain.jpg);
     background-size: cover;
 }
+
+#news {
+    min-height: 270px;
+    margin-bottom: 40px;
+    background-image: url(./img/cafenews.png);
+    background-size: cover;
+}
+
+#news .main-title {
+    text-align: center;
+}
