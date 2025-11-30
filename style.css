@@ -90,3 +90,49 @@ a {
 #news .main-title {
     text-align: center;
 }
+
+.news-contents {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+article {
+    width: 75%;
+    margin-left: 5%;
+    margin-right: 10%;
+}
+
+aside {
+    width: 23%;
+    margin-right: 5%;
+}
+
+.post {
+    display: flex;
+    padding-top: 5px;
+    margin-bottom: 40px;
+}
+
+.post-date {
+    background-color: #0090dd;
+    color: #fff;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.post-date span {
+    font-size: 1rem;
+    border-top: 1px #fff solid;
+    padding-top: 3px;
+}
+
+.post-title{
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    padding-top: 15px;
+}
