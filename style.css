@@ -46,3 +46,11 @@ header {
     list-style: none;
     margin-top: 14px;
 }
+
+footer {
+    width: 100%;
+    background-color: #444;
+    text-align: center;
+    padding: 26px 0;
+    color: #fff;
+}
