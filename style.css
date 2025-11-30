@@ -54,3 +54,37 @@ footer {
     padding: 26px 0;
     color: #fff;
 }
+
+.main-visual {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.main-visual p {
+    font-size: 1.2rem;
+    margin: 10px 0 40px
+}
+
+.main-visal p {
+    font-size: 1.2rem;
+    margin: 10px 0 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main-title {
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+.btn {
+    font-size: 1.2rem;
+    background-color: #0ba;
+    color: #fff;
+    border-radius: 30px;
+    padding: 20px 50px;
+}
+
+.brt:hover {
+    background-color: #0090dd;
+}
